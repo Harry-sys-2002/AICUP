@@ -383,8 +383,8 @@ In addition, python-based motion estimation techniques are available and can be 
   year={2022}
 }
 ```
-
-
+比賽資訊：https://tbrain.trendmicro.com.tw/Competitions/Details/33
+參考資料來源：https://github.com/ricky-696/AICUP_Baseline_BoT-SORT
 ## Acknowledgement
 
 A large part of the codes, ideas and results are borrowed from
