@@ -1,3 +1,8 @@
+#WEIGHT
+#YOLOV7: https://drive.google.com/file/d/1J__QMW7PSUUlFOz5nP6l7WPKJ7O7vH_m/view?usp=sharing
+#REID: https://drive.google.com/file/d/1LvvKdPfPPDtUf5QTbMr-Zp0RciENGS5m/view?usp=sharing
+#REID_MODEL_WEIGHT: https://drive.google.com/file/d/1NE0ZNUdXeWDBh5T43536GqNd3vsoIDGh/view?usp=sharing
+#COLAB: https://colab.research.google.com/drive/1h_5Fpg1E-BUTOr8dexlZm3Xp0LeRFEDe#scrollTo=Mpb4K9hu4xID
 # AICUP Baseline: BoT-SORT
 
 > [**BoT-SORT: Robust Associations Multi-Pedestrian Tracking**](https://arxiv.org/abs/2206.14651)
