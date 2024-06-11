@@ -394,7 +394,7 @@ A large part of the codes, ideas and results are borrowed from
 - [FastReID](https://github.com/JDAI-CV/fast-reid)
 - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
 - [YOLOv7](https://github.com/wongkinyiu/yolov7)
-
+- [T-Brain](https://tbrain.trendmicro.com.tw/Competitions/Details/33)
 Thanks for their excellent work!
 
 
